@@ -335,5 +335,3 @@ npm rebuild bcrypt --build-from-source
 * **Repository:** `vietpro-api-v3`
 
 ---
-
-👉 nói mình biết, mình chỉnh tiếp cho đúng “gu” GitHub chuyên nghiệp nhé 😄
