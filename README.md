@@ -336,10 +336,4 @@ npm rebuild bcrypt --build-from-source
 
 ---
 
-## 📝 Ghi chú
-
-> Dự án phục vụ mục đích **học tập và thực hành Node.js backend**, mô phỏng đầy đủ một hệ thống thương mại điện tử thực tế.
-
----
-
 👉 nói mình biết, mình chỉnh tiếp cho đúng “gu” GitHub chuyên nghiệp nhé 😄
